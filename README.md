@@ -1,4 +1,4 @@
-# Polkadot Staking Dashboard
+# DOTDOTDOT Staking Dashboard
 
 #### Staging (Latest Version):
 https://paritytech.github.io/polkadot-staking-dashboard
